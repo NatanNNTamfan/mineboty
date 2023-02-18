@@ -1,8 +1,8 @@
 {
-    "ip": "katyty.aternos.me",
-    "port": "",
+    "ip": "BINFOR.aternos.me",
+    "port": "12072",
     "password": "",
-    "prefix": "",
+    "prefix": "1",
     "login-enabled": "false",
     "register-cmd": "/login kartikopp kartikopp",
     "login-cmd": "/login kartikopp",
